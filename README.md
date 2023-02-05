@@ -3,7 +3,7 @@
   
 # What I Have Some Familiarity With
 
-[![My Skills](https://skillicons.dev/icons?i=c, cs, css, django, dotnet, html, java, js, linux, mysql, py, selenium)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c, cs, css, django, dotnet, html, java, js, linux, mysql, py)]
 
 
  🔭 I’m currently working on webdev stuff  
