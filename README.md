@@ -4,7 +4,7 @@ I'm Kenny, I'm a Software Developer & Amazon Flex Driver 💪😂 living in Hous
 # What I Have Some Familiarity With
 [![My Skills](https://skillicons.dev/icons?i=c,cs,css,django,dotnet,html,java,js,linux,mysql,py,selenium&theme=light)](https://skillicons.dev)  
 
-![__alt_text__](https://img.shields.io/badge/LinkedIn--0A66C2?style=for-the-badge&logo=LinkedIn)
+![__alt_text__](https://img.shields.io/badge/LinkedIn--0A66C2?style=for-the-badge&logo=LinkedIn)(https://www.linkedin.com/in/kenny-witzenman/)
 
 # About Me
  🎓 I just graduated this Fall 2022 with a BSc in Computer Science!
