@@ -11,7 +11,7 @@ I'm Kenny, I'm a Software Developer & Amazon Flex Driver 💪😂 living in Hous
  👯 I’m looking to collaborate with anyone passionate about computers down to the metal!  
  🦆 Pronouns: He/Him  
  🛹 Fun fact: I've been skateboarding since I was 8!  
- 💬 "We truly live only one day at a time. It doesn't really help to worry about the future, which we can't
+ 💬 "Live only one day at a time. It doesn't really help to worry about the future, which we can't
            control, or the past, which we can't change." -Philip Yancey
  
 
