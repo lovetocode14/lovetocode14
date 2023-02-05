@@ -2,8 +2,9 @@
 I'm Kenny, I'm a Software Developer & Amazon Flex Driver 💪😂 living in Houston, TX 🏙️! I am interested in 🔐Security and ⌨️Software Engineering.
   
 # What I Have Some Familiarity With
-[![My Skills](https://skillicons.dev/icons?i=c,cs,css,django,dotnet,html,java,js,linux,mysql,py,selenium&theme=light)](https://skillicons.dev)
-![__alt_text__](https://img.shields.io/badge/Tesla-text-CC0000?style=for-the-badge&logo=Tesla)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,css,django,dotnet,html,java,js,linux,mysql,py,selenium&theme=light)](https://skillicons.dev)  
+
+![__alt_text__](https://img.shields.io/badge/LinkedIn-text-#0A66C2?style=for-the-badge&logo=LinkedIn)
 
 # About Me
  🎓 I just graduated this Fall 2022 with a BSc in Computer Science!
