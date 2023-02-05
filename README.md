@@ -6,6 +6,8 @@
 
 ![My Skills](https://skillicons.dev/icons?i=c, cs, css, django, dotnet, html, java, js, linux, mysql, py, selenium)
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
  🔭 I’m currently working on webdev stuff  
  🌱 I’m currently learning webdev stuff, cybersec stuff, devops stuff  
  👯 I’m looking to collaborate on anything cool!  
