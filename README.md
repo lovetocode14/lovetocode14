@@ -1,9 +1,7 @@
 # Hi there 👋
   I'm Kenny (he/him)- I'm a software developer and Amazon Flex Driver! I am interested in security and software engineering. 
   
-  [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,c, cs,java, js, py)](https://skills.thijs.gg)
-  
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,c, cs,java, js, py&theme=light)](https://skillicons.dev)
+  ![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino)
 
  🔭 I’m currently working on webdev stuff  
  🌱 I’m currently learning webdev stuff, cybersec stuff, devops stuff  
