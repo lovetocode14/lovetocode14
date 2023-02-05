@@ -4,6 +4,8 @@
 # What I Have Some Familiarity With
 [![My Skills](https://skillicons.dev/icons?i=c, cs, css, django, dotnet, html, java, js, linux, mysql, py, selenium)](https://skillicons.dev)
 
+![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino)
+
  🔭 I’m currently working on webdev stuff  
  🌱 I’m currently learning webdev stuff, cybersec stuff, devops stuff  
  👯 I’m looking to collaborate on anything cool!  
