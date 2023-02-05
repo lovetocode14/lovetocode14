@@ -8,7 +8,7 @@
  🎓 I just graduated this Fall 2022 with a BSc in Computer Science!
  🌐 I’m currently working on webdev stuff  
  🌱 I’m currently learning webdev stuff, cybersec stuff, devops stuff  
- 👯 I’m looking to collaborate on anything cool!  
+ 👯 I’m looking to collaborate with anyone passionate about computers down to the metal! 
  🦆 Pronouns: He/Him  
  🛹 Fun fact: I've been skateboarding since I was 8!  
  
