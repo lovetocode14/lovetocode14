@@ -1,5 +1,5 @@
 # 👋Hello There! 
-I'm Kenny, I'm a Software Developer & Amazon Flex Driver 💪😂 living in Houston, TX 🏙️! I am interested in 🔐Security and ⌨️Software Engineering.
+I'm Kenny, I'm a Software Developer & Amazon Flex Driver 💪😂 living in Houston, TX! I am interested in SWE/DevOps/Security.
   
 # 🧠What I Have Some Familiarity With
 [![My Skills](https://skillicons.dev/icons?i=c,cs,py,java,html,css,js,django,dotnet,linux,mysql,selenium&theme=light)](https://skillicons.dev)  
